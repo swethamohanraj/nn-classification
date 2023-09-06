@@ -238,17 +238,19 @@ print(le.inverse_transform(x_prediction))
 ### Accuracy, Validation Accuracy Vs Iteration
 ![image](https://github.com/swethamohanraj/nn-classification/assets/94228215/ef59f64c-fa60-4152-b263-c01791b25922)
 
-### Classification Report
+### Confusion Matrix
 ![image](https://github.com/swethamohanraj/nn-classification/assets/94228215/ed6dbfcd-4d03-4c53-9646-dcb7d375e04b)
 
-### Confusion Matrix
 
+### Classification Report
 ![image](https://github.com/swethamohanraj/nn-classification/assets/94228215/794ad63d-7d52-41ce-a83d-242f8fecca01)
 
 
 
 ### New Sample Data Prediction
 
-Include your sample input and output here
+![image](https://github.com/swethamohanraj/nn-classification/assets/94228215/db3383b8-40ae-47b5-9a63-5126e342e6ca)
+
 
 ## RESULT
+A neural network classification model is developed for the given dataset.
